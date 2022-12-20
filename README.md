@@ -12,4 +12,4 @@ Preste bem atenção às instruções dentro do arquivo App.jsx e bora codar!
 
 ## Resolução do desafio
 
-Em breve.
+https://youtu.be/NAtf3T9gG7s
